@@ -1,4 +1,4 @@
-# Guacamole Common JS NPM module
+## Guacamole Common JS NPM module
 
 This project contains the source code for the Guacamole Common JS NPM Module used  by the Web Application of the VISA platform.
 
